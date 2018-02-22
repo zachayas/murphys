@@ -1,0 +1,19 @@
+.pub-background{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg');
+  height: 500px;
+}
+
+.ui.borderless.topmenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.whiter{
+color: white;
+}
+
+.green-background {
+  background-color: #004030;
+  color: whitesmoke;
+  height: 200px;
+}
